@@ -1,0 +1,6 @@
+{
+  "name": "Firebird Backup & Restore Tool",
+  "description": "Ferramenta profissional para backup, restauração e reparo de bancos de dados Firebird.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
